@@ -19,6 +19,9 @@ sudo apt-get -y install libatlas3-base
 #install SourceExtractor
 sudo apt-get -y install sextractor scamp swarp
 
+#install Stellarium
+sudo apt-get -y install stellarium
+
 # install SAOImage aka ds9
 sudo apt-get -y install saods9
 
